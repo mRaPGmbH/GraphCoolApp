@@ -1,13 +1,8 @@
 {
-  "name": "vendor/myapp",
-  "description": "A GraphCool webservice.",
+  "name": "graphcool/graphcool",
+  "description": "GraphCool webservice framework.",
   "type": "project",
-  "authors": [
-    {
-      "name": "you",
-      "email": "you@domain.com"
-    }
-  ],
+  "license": "MIT",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
