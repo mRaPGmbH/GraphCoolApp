@@ -1,0 +1,7 @@
+/vendor
+/packages
+.env
+.env.backup
+.idea
+jwtkey-public.pem
+/storage
