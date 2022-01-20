@@ -1,7 +1,7 @@
 # How to get started:
 
 Create a new project: \
-`composer create-project --prefer-dist mrapgmbh/graphcoolapp myApp` 
+`composer create-project --prefer-dist graphcool/graphcool myApp` 
 
 Check and update following files in your new project:
 * `.env.local` - app name, database name+user+pwd
